@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace ServicesLab1.Repositories
 {
-    public class TranscationRepository
+    public class TranscationRepository:ITranscationRepository
     {
         private readonly ApplicationDbContext _context;
 
@@ -17,7 +17,7 @@ namespace ServicesLab1.Repositories
             _context = context;
         }
 
-        public IEnumerable<Transaction> GetAllUsers()
+        public IEnumerable<Transaction> GetAll()
         {
             return _context.Transactions.ToList();
         }
