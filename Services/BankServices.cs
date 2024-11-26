@@ -9,7 +9,7 @@ using System.Transactions;
 
 namespace ServicesLab1.Services
 {
-    public class BankServices 
+    public class BankServices :IBankServices
     {
         private readonly IBankAccountRepository _bankAccountRepository;
         private readonly ITranscationRepository _transactionRepository;

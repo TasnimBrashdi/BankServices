@@ -5,6 +5,7 @@ using ServicesLab1.Models;
 using ServicesLab1.Repositories;
 using ServicesLab1.Services;
 using System;
+using System.Security.Principal;
 using System.Text;
 
 namespace ServicesLab1
@@ -48,7 +49,9 @@ namespace ServicesLab1
                     case "3":
                         WithdrowTransaction(bankAccountService, BankService, TranscationService);
                         break;
-
+                        case "4":
+                        Transfer(bankAccountService, BankService, TranscationService);
+                        break;
                     case "5":
                         Console.WriteLine("Goodbye!");
                         return;
@@ -213,6 +216,79 @@ namespace ServicesLab1
             
         }
 
+        public static void Transfer(IBankAccountService bankAccountService, IBankServices bankServices, ITranscationService transactionService)
+        {
+            try
+            {
+           
+                Console.Write("Enter Your Account ID: ");
+                if (!int.TryParse(Console.ReadLine(), out var sourceAccountId))
+                {
+                    Console.WriteLine("Invalid Source Account ID.");
+                    return;
+                }
+
+         
+                Console.Write("Enter Destination Account ID: ");
+                if (!int.TryParse(Console.ReadLine(), out var destinationAccountId))
+                {
+                    Console.WriteLine("Invalid Destination Account ID.");
+                    return;
+                }
+
+
+                Console.Write("Enter Amount to Transfer: ");
+                if (!decimal.TryParse(Console.ReadLine(), out var amount) || amount <= 0)
+                {
+                    Console.WriteLine("Invalid amount. Please enter a positive value.");
+                    return;
+                }
+
+                var sourceAccount = bankAccountService.GetAccountById(sourceAccountId);
+                var destinationAccount = bankAccountService.GetAccountById(destinationAccountId);
+
+      
+                if (sourceAccount == null)
+                {
+                    Console.WriteLine("Source account not found.");
+                    return;
+                }
+                if (destinationAccount == null)
+                {
+                    Console.WriteLine("Destination account not found.");
+                    return;
+                }
+                if (sourceAccount.Balance < amount)
+                {
+                    Console.WriteLine("Insufficient funds in account.");
+                    return;
+                }
+
+     
+                bankServices.Transfer(sourceAccountId, destinationAccountId, amount);
+
+                Console.WriteLine($"Transfer successful! {amount:C} transferred from Account {sourceAccountId} to Account {destinationAccountId}.");
+                transactionService.AddTranscation(new Transaction
+                {
+                    sourceAccNumber = sourceAccount.AccountNumber,
+                    amount = amount,
+                    operation = "Transfer",
+                    AId = sourceAccount.Id
+                });
+
+                transactionService.AddTranscation(new Transaction
+                {
+                    sourceAccNumber = destinationAccount.AccountNumber,
+                    amount = amount,
+                    operation = "Deposit",
+                    AId = destinationAccount.Id
+                });
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($" Error  {ex.Message}");
+            }
+        }
 
         private static ServiceProvider ConfigureServices()
         {
@@ -225,6 +301,7 @@ namespace ServicesLab1
             services.AddScoped<IUserService, UserService>();
             services.AddScoped<IBankAccountService, BankAccountService>();
             services.AddScoped<ITranscationService, TranscationService>();
+            services.AddScoped<IBankServices, BankServices>();
 
 
             return services.BuildServiceProvider();
