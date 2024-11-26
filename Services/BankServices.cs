@@ -26,8 +26,8 @@ namespace ServicesLab1.Services
             {
                 account.Balance += amount;
                 _bankAccountRepository.UpdateAccount(account);
-          
 
+        
             }
             else
             {
@@ -47,6 +47,8 @@ namespace ServicesLab1.Services
                 {
                     account.Balance -= amount;
                     _bankAccountRepository.UpdateAccount(account);
+
+              
                 }
                 else
                 {

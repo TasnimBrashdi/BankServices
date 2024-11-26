@@ -56,40 +56,7 @@ namespace ServicesLab1.Services
             _bankAccountRepository.DeleteAccount(accountId);
         }
 
-        public void Deposit(int accountId, decimal amount)
-        {
-            var account = _bankAccountRepository.GetAccountById(accountId);
-            if (account != null)
-            {
-                account.Balance += amount;
-                _bankAccountRepository.UpdateAccount(account);
-            }
-            else
-            {
-                throw new Exception("Account not found.");
-            }
-        }
 
-        public void Withdraw(int accountId, decimal amount)
-        {
-            var account = _bankAccountRepository.GetAccountById(accountId);
-            if (account != null)
-            {
-                if (account.Balance >= amount)
-                {
-                    account.Balance -= amount;
-                    _bankAccountRepository.UpdateAccount(account);
-                }
-                else
-                {
-                    throw new Exception("Insufficient funds.");
-                }
-            }
-            else
-            {
-                throw new Exception("Account not found.");
-            }
-        }
 
         public string Withdraw2(int accountId, decimal amount)
         {

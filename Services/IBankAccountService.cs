@@ -15,8 +15,6 @@ namespace ServicesLab1.Services
         void UpdateAccount(BankAccount account);
         void DeleteAccount(int accountId); 
 
-        void Deposit(int accountId, decimal amount);
-        void Withdraw(int accountId, decimal amount);
         decimal BalanceInquiry(int accountId);
 
     }
