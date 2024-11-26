@@ -302,3 +302,4 @@ C:\Users\Codeline User\source\repos\LayeredArchitecture\obj\Debug\net8.0\refint\
 C:\Users\Codeline User\source\repos\LayeredArchitecture\obj\Debug\net8.0\ServicesLab1.pdb
 C:\Users\Codeline User\source\repos\LayeredArchitecture\obj\Debug\net8.0\ServicesLab1.genruntimeconfig.cache
 C:\Users\Codeline User\source\repos\LayeredArchitecture\obj\Debug\net8.0\ref\ServicesLab1.dll
+C:\Users\Codeline User\source\repos\LayeredArchitecture\obj\Debug\net8.0\ServicesLab1.sourcelink.json

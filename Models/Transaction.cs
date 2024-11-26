@@ -25,5 +25,7 @@ namespace ServicesLab1.Models
         public int AId { get; set; }
         public virtual BankAccount aId { get; set; }
         public virtual ICollection<BankAccount> BankAccounts { get; set; }
+
+
     }
 }

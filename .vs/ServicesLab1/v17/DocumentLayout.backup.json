@@ -3,68 +3,88 @@
   "WorkspaceRootPath": "C:\\Users\\Codeline User\\source\\repos\\LayeredArchitecture\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Codeline User\\source\\repos\\LayeredArchitecture\\Migrations\\20241125105610_AddTranscation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241125105610_AddTranscation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F08D576E-9D32-4BBA-ACF5-017B16185874}|ServicesLab1.csproj|c:\\users\\codeline user\\source\\repos\\layeredarchitecture\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F08D576E-9D32-4BBA-ACF5-017B16185874}|ServicesLab1.csproj|solutionrelative:models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F08D576E-9D32-4BBA-ACF5-017B16185874}|ServicesLab1.csproj|c:\\users\\codeline user\\source\\repos\\layeredarchitecture\\models\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F08D576E-9D32-4BBA-ACF5-017B16185874}|ServicesLab1.csproj|solutionrelative:models\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F08D576E-9D32-4BBA-ACF5-017B16185874}|ServicesLab1.csproj|c:\\users\\codeline user\\source\\repos\\layeredarchitecture\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F08D576E-9D32-4BBA-ACF5-017B16185874}|ServicesLab1.csproj|solutionrelative:applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F08D576E-9D32-4BBA-ACF5-017B16185874}|ServicesLab1.csproj|c:\\users\\codeline user\\source\\repos\\layeredarchitecture\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F08D576E-9D32-4BBA-ACF5-017B16185874}|ServicesLab1.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F08D576E-9D32-4BBA-ACF5-017B16185874}|ServicesLab1.csproj|c:\\users\\codeline user\\source\\repos\\layeredarchitecture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F08D576E-9D32-4BBA-ACF5-017B16185874}|ServicesLab1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08D576E-9D32-4BBA-ACF5-017B16185874}|ServicesLab1.csproj|c:\\users\\codeline user\\source\\repos\\layeredarchitecture\\services\\ibankservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F08D576E-9D32-4BBA-ACF5-017B16185874}|ServicesLab1.csproj|solutionrelative:services\\ibankservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F08D576E-9D32-4BBA-ACF5-017B16185874}|ServicesLab1.csproj|c:\\users\\codeline user\\source\\repos\\layeredarchitecture\\services\\bankservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F08D576E-9D32-4BBA-ACF5-017B16185874}|ServicesLab1.csproj|solutionrelative:services\\bankservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F08D576E-9D32-4BBA-ACF5-017B16185874}|ServicesLab1.csproj|c:\\users\\codeline user\\source\\repos\\layeredarchitecture\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F08D576E-9D32-4BBA-ACF5-017B16185874}|ServicesLab1.csproj|solutionrelative:repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F08D576E-9D32-4BBA-ACF5-017B16185874}|ServicesLab1.csproj|c:\\users\\codeline user\\source\\repos\\layeredarchitecture\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F08D576E-9D32-4BBA-ACF5-017B16185874}|ServicesLab1.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F08D576E-9D32-4BBA-ACF5-017B16185874}|ServicesLab1.csproj|c:\\users\\codeline user\\source\\repos\\layeredarchitecture\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F08D576E-9D32-4BBA-ACF5-017B16185874}|ServicesLab1.csproj|solutionrelative:services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F08D576E-9D32-4BBA-ACF5-017B16185874}|ServicesLab1.csproj|c:\\users\\codeline user\\source\\repos\\layeredarchitecture\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F08D576E-9D32-4BBA-ACF5-017B16185874}|ServicesLab1.csproj|solutionrelative:repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F08D576E-9D32-4BBA-ACF5-017B16185874}|ServicesLab1.csproj|c:\\users\\codeline user\\source\\repos\\layeredarchitecture\\services\\bankaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F08D576E-9D32-4BBA-ACF5-017B16185874}|ServicesLab1.csproj|solutionrelative:services\\bankaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08D576E-9D32-4BBA-ACF5-017B16185874}|ServicesLab1.csproj|c:\\users\\codeline user\\source\\repos\\layeredarchitecture\\services\\transcationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F08D576E-9D32-4BBA-ACF5-017B16185874}|ServicesLab1.csproj|solutionrelative:services\\transcationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08D576E-9D32-4BBA-ACF5-017B16185874}|ServicesLab1.csproj|c:\\users\\codeline user\\source\\repos\\layeredarchitecture\\services\\itranscationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F08D576E-9D32-4BBA-ACF5-017B16185874}|ServicesLab1.csproj|solutionrelative:services\\itranscationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08D576E-9D32-4BBA-ACF5-017B16185874}|ServicesLab1.csproj|c:\\users\\codeline user\\source\\repos\\layeredarchitecture\\services\\ibankaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F08D576E-9D32-4BBA-ACF5-017B16185874}|ServicesLab1.csproj|solutionrelative:services\\ibankaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F08D576E-9D32-4BBA-ACF5-017B16185874}|ServicesLab1.csproj|c:\\users\\codeline user\\source\\repos\\layeredarchitecture\\repositories\\bankaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F08D576E-9D32-4BBA-ACF5-017B16185874}|ServicesLab1.csproj|solutionrelative:repositories\\bankaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F08D576E-9D32-4BBA-ACF5-017B16185874}|ServicesLab1.csproj|c:\\users\\codeline user\\source\\repos\\layeredarchitecture\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F08D576E-9D32-4BBA-ACF5-017B16185874}|ServicesLab1.csproj|solutionrelative:applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08D576E-9D32-4BBA-ACF5-017B16185874}|ServicesLab1.csproj|c:\\users\\codeline user\\source\\repos\\layeredarchitecture\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F08D576E-9D32-4BBA-ACF5-017B16185874}|ServicesLab1.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08D576E-9D32-4BBA-ACF5-017B16185874}|ServicesLab1.csproj|c:\\users\\codeline user\\source\\repos\\layeredarchitecture\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F08D576E-9D32-4BBA-ACF5-017B16185874}|ServicesLab1.csproj|solutionrelative:models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08D576E-9D32-4BBA-ACF5-017B16185874}|ServicesLab1.csproj|c:\\users\\codeline user\\source\\repos\\layeredarchitecture\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F08D576E-9D32-4BBA-ACF5-017B16185874}|ServicesLab1.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08D576E-9D32-4BBA-ACF5-017B16185874}|ServicesLab1.csproj|c:\\users\\codeline user\\source\\repos\\layeredarchitecture\\models\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F08D576E-9D32-4BBA-ACF5-017B16185874}|ServicesLab1.csproj|solutionrelative:models\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08D576E-9D32-4BBA-ACF5-017B16185874}|ServicesLab1.csproj|c:\\users\\codeline user\\source\\repos\\layeredarchitecture\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F08D576E-9D32-4BBA-ACF5-017B16185874}|ServicesLab1.csproj|solutionrelative:services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08D576E-9D32-4BBA-ACF5-017B16185874}|ServicesLab1.csproj|c:\\users\\codeline user\\source\\repos\\layeredarchitecture\\repositories\\itranscationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F08D576E-9D32-4BBA-ACF5-017B16185874}|ServicesLab1.csproj|solutionrelative:repositories\\itranscationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F08D576E-9D32-4BBA-ACF5-017B16185874}|ServicesLab1.csproj|c:\\users\\codeline user\\source\\repos\\layeredarchitecture\\migrations\\20241125043951_initialconfigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F08D576E-9D32-4BBA-ACF5-017B16185874}|ServicesLab1.csproj|solutionrelative:migrations\\20241125043951_initialconfigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08D576E-9D32-4BBA-ACF5-017B16185874}|ServicesLab1.csproj|c:\\users\\codeline user\\source\\repos\\layeredarchitecture\\repositories\\transcationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F08D576E-9D32-4BBA-ACF5-017B16185874}|ServicesLab1.csproj|solutionrelative:repositories\\transcationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08D576E-9D32-4BBA-ACF5-017B16185874}|ServicesLab1.csproj|c:\\users\\codeline user\\source\\repos\\layeredarchitecture\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F08D576E-9D32-4BBA-ACF5-017B16185874}|ServicesLab1.csproj|solutionrelative:repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08D576E-9D32-4BBA-ACF5-017B16185874}|ServicesLab1.csproj|c:\\users\\codeline user\\source\\repos\\layeredarchitecture\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F08D576E-9D32-4BBA-ACF5-017B16185874}|ServicesLab1.csproj|solutionrelative:repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F08D576E-9D32-4BBA-ACF5-017B16185874}|ServicesLab1.csproj|c:\\users\\codeline user\\source\\repos\\layeredarchitecture\\repositories\\ibankaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F08D576E-9D32-4BBA-ACF5-017B16185874}|ServicesLab1.csproj|solutionrelative:repositories\\ibankaccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F08D576E-9D32-4BBA-ACF5-017B16185874}|ServicesLab1.csproj|c:\\users\\codeline user\\source\\repos\\layeredarchitecture\\services\\ibankaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F08D576E-9D32-4BBA-ACF5-017B16185874}|ServicesLab1.csproj|solutionrelative:services\\ibankaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F08D576E-9D32-4BBA-ACF5-017B16185874}|ServicesLab1.csproj|c:\\users\\codeline user\\source\\repos\\layeredarchitecture\\migrations\\20241125105610_addtranscation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F08D576E-9D32-4BBA-ACF5-017B16185874}|ServicesLab1.csproj|solutionrelative:migrations\\20241125105610_addtranscation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,11 +94,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 21,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Codeline User\\source\\repos\\LayeredArchitecture\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "ApplicationDbContext.cs",
@@ -92,13 +112,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Codeline User\\source\\repos\\LayeredArchitecture\\Models\\User.cs",
               "RelativeDocumentMoniker": "Models\\User.cs",
               "ToolTip": "C:\\Users\\Codeline User\\source\\repos\\LayeredArchitecture\\Models\\User.cs",
               "RelativeToolTip": "Models\\User.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAABKAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-25T04:29:35.261Z",
               "IsPinned": true,
@@ -106,13 +126,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 12,
               "Title": "BankAccount.cs",
               "DocumentMoniker": "C:\\Users\\Codeline User\\source\\repos\\LayeredArchitecture\\Models\\BankAccount.cs",
               "RelativeDocumentMoniker": "Models\\BankAccount.cs",
               "ToolTip": "C:\\Users\\Codeline User\\source\\repos\\LayeredArchitecture\\Models\\BankAccount.cs",
               "RelativeToolTip": "Models\\BankAccount.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAuwBQAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwBEAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-25T04:29:52.053Z",
               "IsPinned": true,
@@ -120,119 +140,98 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 17,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "C:\\Users\\Codeline User\\source\\repos\\LayeredArchitecture\\Repositories\\IUserRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\IUserRepository.cs",
               "ToolTip": "C:\\Users\\Codeline User\\source\\repos\\LayeredArchitecture\\Repositories\\IUserRepository.cs",
               "RelativeToolTip": "Repositories\\IUserRepository.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAMAAAA",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-25T04:42:57.998Z",
               "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "IBankAccountRepository.cs",
               "DocumentMoniker": "C:\\Users\\Codeline User\\source\\repos\\LayeredArchitecture\\Repositories\\IBankAccountRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\IBankAccountRepository.cs",
               "ToolTip": "C:\\Users\\Codeline User\\source\\repos\\LayeredArchitecture\\Repositories\\IBankAccountRepository.cs",
               "RelativeToolTip": "Repositories\\IBankAccountRepository.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAA2wAwAAAAiAAAA",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwA4AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-25T04:43:23.062Z",
               "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 7,
               "Title": "BankAccountRepository.cs",
               "DocumentMoniker": "C:\\Users\\Codeline User\\source\\repos\\LayeredArchitecture\\Repositories\\BankAccountRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\BankAccountRepository.cs",
               "ToolTip": "C:\\Users\\Codeline User\\source\\repos\\LayeredArchitecture\\Repositories\\BankAccountRepository.cs",
               "RelativeToolTip": "Repositories\\BankAccountRepository.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAuwA4AAABBAAAA",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-25T04:44:32.999Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "IUserService.cs",
               "DocumentMoniker": "C:\\Users\\Codeline User\\source\\repos\\LayeredArchitecture\\Services\\IUserService.cs",
               "RelativeDocumentMoniker": "Services\\IUserService.cs",
               "ToolTip": "C:\\Users\\Codeline User\\source\\repos\\LayeredArchitecture\\Services\\IUserService.cs",
               "RelativeToolTip": "Services\\IUserService.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAAA8AAAAkAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-25T05:02:01.052Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 6,
               "Title": "IBankAccountService.cs",
               "DocumentMoniker": "C:\\Users\\Codeline User\\source\\repos\\LayeredArchitecture\\Services\\IBankAccountService.cs",
               "RelativeDocumentMoniker": "Services\\IBankAccountService.cs",
               "ToolTip": "C:\\Users\\Codeline User\\source\\repos\\LayeredArchitecture\\Services\\IBankAccountService.cs",
               "RelativeToolTip": "Services\\IBankAccountService.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAkAAAABAAAA",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-25T05:02:17.474Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Users\\Codeline User\\source\\repos\\LayeredArchitecture\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "Services\\UserService.cs",
               "ToolTip": "C:\\Users\\Codeline User\\source\\repos\\LayeredArchitecture\\Services\\UserService.cs",
               "RelativeToolTip": "Services\\UserService.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAlwB8AAAAfAAAA",
+              "ViewState": "AgIAABUAAAAAAAAAAAAlwB8AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-25T05:05:19.168Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 3,
               "Title": "BankAccountService.cs",
               "DocumentMoniker": "C:\\Users\\Codeline User\\source\\repos\\LayeredArchitecture\\Services\\BankAccountService.cs",
               "RelativeDocumentMoniker": "Services\\BankAccountService.cs",
               "ToolTip": "C:\\Users\\Codeline User\\source\\repos\\LayeredArchitecture\\Services\\BankAccountService.cs",
               "RelativeToolTip": "Services\\BankAccountService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABOAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-25T05:05:36.529Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20241125105610_AddTranscation.cs",
-              "DocumentMoniker": "C:\\Users\\Codeline User\\source\\repos\\LayeredArchitecture\\Migrations\\20241125105610_AddTranscation.cs",
-              "RelativeDocumentMoniker": "Migrations\\20241125105610_AddTranscation.cs",
-              "ToolTip": "C:\\Users\\Codeline User\\source\\repos\\LayeredArchitecture\\Migrations\\20241125105610_AddTranscation.cs",
-              "RelativeToolTip": "Migrations\\20241125105610_AddTranscation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T10:56:10.4Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Transaction.cs",
-              "DocumentMoniker": "C:\\Users\\Codeline User\\source\\repos\\LayeredArchitecture\\Models\\Transaction.cs",
-              "RelativeDocumentMoniker": "Models\\Transaction.cs",
-              "ToolTip": "C:\\Users\\Codeline User\\source\\repos\\LayeredArchitecture\\Models\\Transaction.cs",
-              "RelativeToolTip": "Models\\Transaction.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAABgAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T10:38:01.489Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
@@ -241,50 +240,139 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
+              "Title": "IBankServices.cs",
+              "DocumentMoniker": "C:\\Users\\Codeline User\\source\\repos\\LayeredArchitecture\\Services\\IBankServices.cs",
+              "RelativeDocumentMoniker": "Services\\IBankServices.cs",
+              "ToolTip": "C:\\Users\\Codeline User\\source\\repos\\LayeredArchitecture\\Services\\IBankServices.cs",
+              "RelativeToolTip": "Services\\IBankServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T12:25:28.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ITranscationService.cs",
+              "DocumentMoniker": "C:\\Users\\Codeline User\\source\\repos\\LayeredArchitecture\\Services\\ITranscationService.cs",
+              "RelativeDocumentMoniker": "Services\\ITranscationService.cs",
+              "ToolTip": "C:\\Users\\Codeline User\\source\\repos\\LayeredArchitecture\\Services\\ITranscationService.cs",
+              "RelativeToolTip": "Services\\ITranscationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T11:51:24.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TranscationService.cs",
+              "DocumentMoniker": "C:\\Users\\Codeline User\\source\\repos\\LayeredArchitecture\\Services\\TranscationService.cs",
+              "RelativeDocumentMoniker": "Services\\TranscationService.cs",
+              "ToolTip": "C:\\Users\\Codeline User\\source\\repos\\LayeredArchitecture\\Services\\TranscationService.cs",
+              "RelativeToolTip": "Services\\TranscationService.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAqwDAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T11:22:44.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ITranscationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Codeline User\\source\\repos\\LayeredArchitecture\\Repositories\\ITranscationRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ITranscationRepository.cs",
+              "ToolTip": "C:\\Users\\Codeline User\\source\\repos\\LayeredArchitecture\\Repositories\\ITranscationRepository.cs",
+              "RelativeToolTip": "Repositories\\ITranscationRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAD4vwkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T11:11:13.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TranscationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Codeline User\\source\\repos\\LayeredArchitecture\\Repositories\\TranscationRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\TranscationRepository.cs",
+              "ToolTip": "C:\\Users\\Codeline User\\source\\repos\\LayeredArchitecture\\Repositories\\TranscationRepository.cs",
+              "RelativeToolTip": "Repositories\\TranscationRepository.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T10:59:13.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20241125105610_AddTranscation.cs",
+              "DocumentMoniker": "C:\\Users\\Codeline User\\source\\repos\\LayeredArchitecture\\Migrations\\20241125105610_AddTranscation.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241125105610_AddTranscation.cs",
+              "ToolTip": "C:\\Users\\Codeline User\\source\\repos\\LayeredArchitecture\\Migrations\\20241125105610_AddTranscation.cs",
+              "RelativeToolTip": "Migrations\\20241125105610_AddTranscation.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T10:56:10.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\Codeline User\\source\\repos\\LayeredArchitecture\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "Models\\Transaction.cs",
+              "ToolTip": "C:\\Users\\Codeline User\\source\\repos\\LayeredArchitecture\\Models\\Transaction.cs",
+              "RelativeToolTip": "Models\\Transaction.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwBUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T10:38:01.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Users\\Codeline User\\source\\repos\\LayeredArchitecture\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\UserRepository.cs",
               "ToolTip": "C:\\Users\\Codeline User\\source\\repos\\LayeredArchitecture\\Repositories\\UserRepository.cs",
               "RelativeToolTip": "Repositories\\UserRepository.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAowB4AAAAAAAAA",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAADIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-25T04:44:08.863Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "BankServices.cs",
               "DocumentMoniker": "C:\\Users\\Codeline User\\source\\repos\\LayeredArchitecture\\Services\\BankServices.cs",
               "RelativeDocumentMoniker": "Services\\BankServices.cs",
               "ToolTip": "C:\\Users\\Codeline User\\source\\repos\\LayeredArchitecture\\Services\\BankServices.cs",
               "RelativeToolTip": "Services\\BankServices.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAYwA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-25T09:00:36.306Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "20241125043951_initialConfigure.cs",
               "DocumentMoniker": "C:\\Users\\Codeline User\\source\\repos\\LayeredArchitecture\\Migrations\\20241125043951_initialConfigure.cs",
               "RelativeDocumentMoniker": "Migrations\\20241125043951_initialConfigure.cs",
               "ToolTip": "C:\\Users\\Codeline User\\source\\repos\\LayeredArchitecture\\Migrations\\20241125043951_initialConfigure.cs",
               "RelativeToolTip": "Migrations\\20241125043951_initialConfigure.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-25T08:13:04.304Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Codeline User\\source\\repos\\LayeredArchitecture\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Codeline User\\source\\repos\\LayeredArchitecture\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAIwBEAAABXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-25T04:23:32.354Z",
               "EditorCaption": ""
